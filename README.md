@@ -1,6 +1,6 @@
 
 # Hello! 👋️
-![](https://komarev.com/ghpvc/?username=Mohsen-Sorkhpour&color=0ca4a5)
+
 <!---
 Mohsen-Sorkhpour/Mohsen-Sorkhpour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
