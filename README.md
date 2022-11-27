@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsen-Sorkhpour&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohsen-Sorkhpour&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohsen-Sorkhpour&show_icons=true&theme=graywhite)
 
 
 <a href="https://github.com/Mohsen-Sorkhpour">
@@ -19,5 +19,5 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <a href="https://github.com/Mohsen-Sorkhpour">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Mohsen-Sorkhpour&show_icons=true&theme=default" alt="Mohsen's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Mohsen-Sorkhpour&show_icons=true&theme=graywhite" alt="Mohsen's GitHub Stats" />
 </a>
